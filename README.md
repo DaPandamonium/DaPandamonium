@@ -110,7 +110,7 @@ If you love coding (and pandas) as much as I do, let's build something amazing t
 <hr>
 
 
-[![](https://visitcount.itsvg.in/api?id=dapandamonium&icon=0&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=dapandamonium&label=Profile%20Visits&color=5&icon=7&pretty=true)](https://visitcount.itsvg.in)
 
 
 <code>*Thank you for visiting my coding den! Remember, in the world of technology, being a panda means embracing both strength and gentleness — coding with passion and navigating challenges with grace.*</code> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Panda.png" alt="Panda" width="25" height="25" />
