@@ -26,7 +26,7 @@ if (brain != empty) {
 <td>
   <img src="./images/coding1.gif" alt="Coding GIF" width="500" height="300" />
   
-  Life's motto? **Ride, Drink, Play, Lime it** and repeat... <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sign%20of%20the%20Horns%20Medium%20Skin%20Tone.png" alt="Sign of the Horns Medium Skin Tone" width="25" height="25" />
+  Life's motto? **Ride, Drink, Play, Code, Lime it** and repeat... <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Sign%20of%20the%20Horns%20Medium%20Skin%20Tone.png" alt="Sign of the Horns Medium Skin Tone" width="25" height="25" />
 </td>
 </table>
 
