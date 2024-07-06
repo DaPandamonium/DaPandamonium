@@ -47,6 +47,10 @@ if (brain != empty) {
   
 - **[Panda Facts](https://github.com/DaPandamonium/Panda-Facts)**: Curious about pandas? This project generates fascinating facts about these adorable creatures. Perfect for fellow panda enthusiasts!
 
+- **[Murderer Mystery Discord Bot](https://github.com/DaPandamonium/murderer_bot)**: Inspired by classic board game the Cluedo, a fun & interactive basic discord bot game. Solve the mystery!
+
+- **[Harry Potter Zodiac Quiz](https://github.com/DaPandamonium/Harry-Potter-Horoscope)** A magical and fun, the Harry Potter themed horoscope with small quiz.
+
 Interested in more of my work? Check out my repositories.
 
 
