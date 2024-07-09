@@ -57,18 +57,18 @@ Interested in more of my work? Check out my repositories.
 ## Skills & Tools 
 <table align="center">
   <tr>
-    <td valign="top" width="50%">
-      <h4>Languages I Know|Learning</h4>
+    <td valign="top" width="10%">
+      <h4>Knowledges | Learning</h4>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,python,markdown,git" />
+        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,python,markdown,sqlite,react" />
       </a>
     </td>
     
   
-  <td valign="top" width="50%">
+  <td valign="top" width="10%">
       <h4>Tools</h4>
          <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,vscode,photoshop,discord,notion,windows,vercel" />
+    <img src="https://skillicons.dev/icons?i=github,vscode,photoshop,discord,notion,windows,vercel,git" />
   </a>
       </a>
     </td>
@@ -112,6 +112,5 @@ If you love coding (and pandas) as much as I do, let's build something amazing t
   </picture></a></p>
 
 <hr>
-
 
 [![](https://visitcount.itsvg.in/api?id=dapandamonium&label=Profile%20Visits&color=5&icon=7&pretty=true)](https://visitcount.itsvg.in)
