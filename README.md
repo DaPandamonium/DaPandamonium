@@ -51,6 +51,8 @@ if (brain != empty) {
 
 - **[Harry Potter Zodiac Quiz](https://github.com/DaPandamonium/Harry-Potter-Horoscope)** A magical and fun, the Harry Potter themed horoscope with small quiz.
 
+- **[Zen Desk](https://github.com/DaPandamonium/ZenDesk)** The project aims to integrate multiple productivity tools including a Pomodoro timer, Todo list, Notes, Reminders, and a Habit Tracker. 
+
 Interested in more of my work? Check out my repositories.
 
 
