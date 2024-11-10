@@ -115,4 +115,8 @@ If you love coding (and pandas) as much as I do, let's build something amazing t
 
 <hr>
 
+[![An image of @dapandamonium's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dapandamonium)](https://holopin.io/@dapandamonium)
+
+<hr>
+
 [![](https://visitcount.itsvg.in/api?id=dapandamonium&label=Profile%20Visits&color=5&icon=7&pretty=true)](https://visitcount.itsvg.in)
