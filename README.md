@@ -33,16 +33,13 @@ if (brain != empty) {
 
 ## 🐾 My Coding Journey
 
-🐾 Started with HTML & CSS
-
-🐾 Picked up JavaScript & Python
-
-🐾 Entered the world of **React, TypeScript & Next.js**
-
-🐾 Currently deep into **AI + 3D Motion Generation**, MDM pipelines & tool development
-
+🐾 Started with HTML & CSS  
+🐾 Picked up JavaScript & Python  
+🐾 Entered the world of **React, TypeScript & Next.js**  
+🐾 Participated in the **Codedex Summer Hackathon**  
+🐾 Built **CTRL-Purr** for the **Codedex Winter Hackathon**, tying for 3rd place  
+🐾 Currently deep into **AI + 3D Motion Generation**, MDM pipelines & tool development  
 🐾 Still so much to explore and learn — both in full-stack development and 3D motion.
-
 
 ## 🎋 Some of my Projects
 
@@ -50,14 +47,14 @@ if (brain != empty) {
 A real-time Diablo IV trading marketplace used by over 600,000 players.  
 Built with **Next.js, TypeScript, TRPC, MongoDB, Mongoose, Centrifugo**, and a complete internal moderation & admin system.  
 
-### [Sanctuary Staff Bot Discord](https://discord.com/invite/diablo4)
+### [Sanctuary Staff Bot](https://discord.com/invite/diablo4)
 Custom-built tools and integrations for the **500,000+ member** Diablo IV Discord server.  
-Includes automated reports, flagged message monitoring, role management, case logs, filters, analytics, and internal dashboards.  
-Community: [Sanctuary Discord](https://discord.com/invite/diablo4)
+Includes automated reports, flagged message monitoring, role management, case logs, filters, analytics, and internal dashboards.
+
 
 ### **GenMotionAI — 3D Text-to-Motion Platform**
 A closed-beta AI motion generation tool for game devs, VTubers, and content creators.  
-Assisting UI/UX, prompt systems, filters, admin tools, Atlas MongoDB Charts monitor, motion previewing, and integration with MDM pipelines.
+Assisting with UI/UX, prompt systems, filters, admin tools, Atlas MongoDB Charts monitoring, motion previewing, and integration with MDM pipelines.
 
 ### 🐼 Other Projects
 
@@ -111,6 +108,17 @@ I love gaming, and it's a significant part of my life, offering both an escape a
 <p align="center">
   <img src="https://www.codedex.io/images/code-nights/evolved-neutral-dragon.gif" alt="Codedex Pet GIF">
 </p>
+
+## 🏆 Hackathons & Community Events
+
+- **Codedex Summer Hackathon (2024)**  
+  Participated in the Codedex Summer Hackathon.  
+  Project Link: [View Submission](https://www.codedex.io/community/hackathon/2sJxBtFzH86P5XKkIdB5)
+
+- **Codedex Winter Hackathon (2024)** — *Team Event, tied for 3rd place*  
+  Built **CTRL-Purr**, a collaborative team project that earned a shared 3rd place.  
+  GitHub: [CTRL-Purr](https://github.com/DaPandamonium/CTRL-Purr)  
+  Hackathon Page: [View Submission](https://www.codedex.io/community/hackathon/W9V83MeGA9Os0nNagm34)
 
 
 ### 🎋 Let's Collaborate
