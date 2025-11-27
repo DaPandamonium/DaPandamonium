@@ -33,49 +33,72 @@ if (brain != empty) {
 
 ## 🐾 My Coding Journey
 
-🐾 Started with HTML  
+🐾 Started with HTML & CSS
 
-🐾 Dabbled in CSS
+🐾 Picked up JavaScript & Python
 
-🐾 Currently unraveling the mysteries of Python & Javascript
+🐾 Entered the world of **React, TypeScript & Next.js**
+
+🐾 Currently deep into **AI + 3D Motion Generation**, MDM pipelines & tool development
+
+🐾 Still so much to explore and learn — both in full-stack development and 3D motion.
+
 
 ## 🎋 Some of my Projects
 
-- **[My Coding Den](https://github.com/DaPandamonium/My-Coding-Den)**: A personal website about-me a personal website showcasing my journey and projects in web development. 
-  
-- **[Chronicles of Eldoria](https://github.com/DaPandamonium/Chronicles-of-Eldoria)**: An epic journey through the lands of Eldoria, crafted as a text-based adventure game. Immerse yourself in its lore and challenges.
-  
-- **[Panda Facts](https://github.com/DaPandamonium/Panda-Facts)**: Curious about pandas? This project generates fascinating facts about these adorable creatures. Perfect for fellow panda enthusiasts!
+### [Diablo.trade](https://diablo.trade)
+A real-time Diablo IV trading marketplace used by over 600,000 players.  
+Built with **Next.js, TypeScript, TRPC, MongoDB, Mongoose, Centrifugo**, and a complete internal moderation & admin system.  
 
-- **[Murderer Mystery Discord Bot](https://github.com/DaPandamonium/murderer_bot)**: Inspired by classic board game the Cluedo, a fun & interactive basic discord bot game. Solve the mystery!
+### [Sanctuary Staff Bot Discord](https://discord.com/invite/diablo4)
+Custom-built tools and integrations for the **500,000+ member** Diablo IV Discord server.  
+Includes automated reports, flagged message monitoring, role management, case logs, filters, analytics, and internal dashboards.  
+Community: [Sanctuary Discord](https://discord.com/invite/diablo4)
 
-- **[Harry Potter Zodiac Quiz](https://github.com/DaPandamonium/Harry-Potter-Horoscope)** A magical and fun, the Harry Potter themed horoscope with small quiz.
+### **GenMotionAI — 3D Text-to-Motion Platform**
+A closed-beta AI motion generation tool for game devs, VTubers, and content creators.  
+Assisting UI/UX, prompt systems, filters, admin tools, Atlas MongoDB Charts monitor, motion previewing, and integration with MDM pipelines.
 
-- **[Zen Desk](https://github.com/DaPandamonium/ZenDesk)** The project aims to integrate multiple productivity tools including a Pomodoro timer, Todo list, Notes, Reminders, and a Habit Tracker. 
+### 🐼 Other Projects
 
-Interested in more of my work? Check out my repositories.
+* **[My Coding Den](https://github.com/DaPandamonium/My-Coding-Den)**
+  A personal website showcasing my journey and projects.
+
+* **[Chronicles of Eldoria](https://github.com/DaPandamonium/Chronicles-of-Eldoria)**
+  A text-based fantasy adventure game full of lore & exploration.
+
+* **[Panda Facts](https://github.com/DaPandamonium/Panda-Facts)**
+  Generates fun panda facts for panda enjoyers.
+
+* **[Murder Mystery Discord Bot](https://github.com/DaPandamonium/murderer_bot)**
+  A Cluedo-inspired mystery-solving Discord bot.
+
+* **[Harry Potter Zodiac Quiz](https://github.com/DaPandamonium/Harry-Potter-Horoscope)**
+  A magical Hogwarts-themed personality quiz.
+
+* **[Zen Desk](https://github.com/DaPandamonium/ZenDesk)**
+  A productivity toolkit — Pomodoro, Notes, Habits, To-do, Reminders.
 
 
 ## Skills & Tools 
 <table align="center">
   <tr>
-    <td valign="top" width="10%">
+    <td valign="top" width="50%">
       <h4>Knowledges | Learning</h4>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,python,markdown,sqlite,react" />
+        <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs,nodejs,express,python,mongodb,mysql,redis,prisma,graphql,regex,zod" />
       </a>
     </td>
-    
-  
-  <td valign="top" width="10%">
+    <td valign="top" width="50%">
       <h4>Tools</h4>
-         <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,vscode,photoshop,discord,notion,windows,vercel,git" />
-  </a>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker,yarn,pnpm,figma,photoshop,notion,discord,windows" />
       </a>
     </td>
+
   </tr>
 </table>
+
 
 ## Gaming & Hobbies <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="25" height="25" />
 
