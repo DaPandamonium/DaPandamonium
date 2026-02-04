@@ -145,7 +145,8 @@ If you love coding (and pandas) as much as I do, let's build something amazing t
   </picture></a></p>
 
 <hr>
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E41TKCCI)
+<hr>
 [![An image of @dapandamonium's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dapandamonium)](https://holopin.io/@dapandamonium)
 
 <hr>
