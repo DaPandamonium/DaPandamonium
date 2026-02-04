@@ -143,10 +143,17 @@ If you love coding (and pandas) as much as I do, let's build something amazing t
   <picture>
     <img src="https://www.codedex.io/images/community/bouncer.gif" width="32" height="32" />
   </picture></a></p>
+<hr>
+<hr>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E41TKCCI)
 
 <hr>
-[![An image of @dapandamonium's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dapandamonium)](https://holopin.io/@dapandamonium)
+<hr>
+
+[![Holopin badges](https://holopin.me/dapandamonium)](https://holopin.io/@dapandamonium)
 
 <hr>
+
 
 [![](https://visitcount.itsvg.in/api?id=dapandamonium&label=Profile%20Visits&color=5&icon=7&pretty=true)](https://visitcount.itsvg.in)
