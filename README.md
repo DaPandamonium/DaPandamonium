@@ -144,11 +144,7 @@ If you love coding (and pandas) as much as I do, let's build something amazing t
     <img src="https://www.codedex.io/images/community/bouncer.gif" width="32" height="32" />
   </picture></a></p>
 <hr>
-<hr>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E41TKCCI)
-
-<hr>
 <hr>
 
 [![Holopin badges](https://holopin.me/dapandamonium)](https://holopin.io/@dapandamonium)
